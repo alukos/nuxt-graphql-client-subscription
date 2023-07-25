@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "example-subscription",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
+    "generate": "nuxt generate",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/ui": "latest",
+    "nuxt": "latest",
+    "nuxt-graphql-client": "^0.2.14-edge.400dff7",
+    "typescript": "^4.9.3"
+  }
+}
